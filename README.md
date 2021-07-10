@@ -1,6 +1,10 @@
 # Computer Vision Basics
-Thresholding:
+## Thresholding:
 - Manual Thresholding
 - Triangle Thresholding
 - Mean Adaptive Thresholding
 - Gaussian Adaptive Thresholding
+
+## Blurring and Sharpening
+- Box Blurr
+- Sharpen 3*3
